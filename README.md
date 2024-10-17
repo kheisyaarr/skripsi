@@ -1,4 +1,4 @@
-# skripsi
+# Deskripsi File
 
 modelling berisikan sintaks untuk menjalankan pemodelan kerugian menggunakan GLM dan GAM beserta evaluasi model. 
 
